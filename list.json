@@ -1,0 +1,12 @@
+{"users":[
+{"id" : 1, "name":"Bernard", "lastname":"Archi", "age":23},
+{"id" : 2, "name":"Achille", "lastname":"Coco", "age":43},
+{"id" : 3, "name":"Sonia", "lastname":"Chemaa", "age":21},
+{"id" : 4, "name":"Taslim", "lastname":"Labete", "age":56},
+{"id" : 5, "name":"Aaron", "lastname":"Lamouche", "age":10},
+{"id" : 6, "name":"Anass", "lastname":"Lamasse", "age":40},
+{"id" : 7, "name":"Leila", "lastname":"Lanight", "age":22},
+{"id" : 8, "name":"Renaud", "lastname":"Lartichaut", "age":22},
+{"id" : 9, "name":"Rémi", "lastname":"Malade", "age":57},
+{"id" : 10, "name":"Julie", "lastname":"Canette", "age":58}
+  ]}
